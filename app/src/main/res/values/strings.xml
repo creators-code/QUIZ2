@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QUIZ</string>
+    <string name="start">Start</string>
+    <string name="quiz">Quiz</string>
+    <string name="q1_this_is_question_1">Q1 This is Question 1</string>
+    <string name="d">D</string>
+    <string name="button">Button</string>
+    <string name="c">C</string>
+    <string name="b">B</string>
+    <string name="a">A</string>
+    <string name="next">next</string>
+    <string name="next1">Next</string>
+</resources>
